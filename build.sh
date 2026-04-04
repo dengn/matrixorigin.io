@@ -1,3 +1,3 @@
 #!/bin/bash
-pip install mkdocs-material==8.2.8
+pip install -r requirements.txt
 mkdocs build
